@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?zc3fid');
+  src:  url('icomoon.eot?zc3fid#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?zc3fid') format('truetype'),
+    url('icomoon.woff?zc3fid') format('woff'),
+    url('icomoon.svg?zc3fid#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Asset-1 .path1:before {
+  content: "\e900";
+  color: rgb(255, 255, 255);
+}
+.icon-Asset-1 .path2:before {
+  content: "\e901";
+  margin-left: -0.9580078125em;
+  color: rgb(0, 0, 0);
+}
+.icon-Asset-1 .path3:before {
+  content: "\e902";
+  margin-left: -0.9580078125em;
+  color: rgb(35, 31, 32);
+}
+.icon-Asset-1 .path4:before {
+  content: "\e903";
+  margin-left: -0.9580078125em;
+  color: rgb(35, 31, 32);
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-bookmark:before {
+  content: "\e9d2";
+}
+.icon-angry:before {
+  content: "\e9ed";
+}
